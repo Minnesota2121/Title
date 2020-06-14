@@ -80,7 +80,7 @@ def new_title():
 #        print('空的')
 #        tkinter.messagebox.showerror(title='输入错误', message='输入为空！') 
 #    else:
-#        s1 = '夏天来临，皮肤在强烈紫外线的照射下，晒伤不可避免，因此，晒后及时修复显得尤为重要，否则可能会造成长期伤害。专家表示，选择晒后护肤品要慎重，芦荟凝胶是最安全，有效的一种选择，晒伤严重者，还请及时就医。'
+#        s1 = '夏天来临。'
 #        title_result = gen_title(s1)  #调用标题生成函数
 #        print(title_result)
 #        t2.insert('end', title_result)
