@@ -2,7 +2,7 @@
 """
 Created on Sat Nov 16 00:23:00 2019
 
-@author: abcde
+@author: zssspace.cn
 """
 
 import tkinter as tk  # 使用Tkinter前需要先导入
